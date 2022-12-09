@@ -69,7 +69,7 @@ export default defineConfig({
 })
 ```
 
-* mian.ts
+* main.ts
 
 ```ts
 import 'uno.css'
